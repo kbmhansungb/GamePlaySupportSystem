@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GamePlaySupportSystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Users\kj\Documents\Unreal Projects\EscapeRoomSimulator\Intermediate\Build\Win64\EscapeRoomSimulatorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Users\kj\Documents\Unreal Projects\EscapeRoomSimulator\Plugins\GamePlaySupportSystem\Intermediate\Build\Win64\UE4Editor\Development\GamePlaySupportSystem\Module.GamePlaySupportSystem.cpp.obj"
+"D:\Users\kj\Documents\Unreal Projects\EscapeRoomSimulator\Plugins\GamePlaySupportSystem\Intermediate\Build\Win64\UE4Editor\Development\GamePlaySupportSystem\Module.GamePlaySupportSystem.gen.cpp.obj"
+"D:\Users\kj\Documents\Unreal Projects\EscapeRoomSimulator\Plugins\GamePlaySupportSystem\Intermediate\Build\Win64\UE4Editor\Development\GamePlaySupportSystem\Default.rc2.res"
+/OUT:"D:\Users\kj\Documents\Unreal Projects\EscapeRoomSimulator\Plugins\GamePlaySupportSystem\Intermediate\Build\Win64\UE4Editor\Development\GamePlaySupportSystem\UE4Editor-GamePlaySupportSystem.lib"
+/INCLUDE:IMPLEMENT_MODULE_GamePlaySupportSystem

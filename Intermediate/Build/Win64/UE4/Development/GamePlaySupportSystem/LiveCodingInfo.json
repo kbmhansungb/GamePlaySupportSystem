@@ -1,0 +1,26 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GamePlaySupportSystem.cpp.obj": [
+			"DirectoryAndFile.cpp.obj",
+			"GamePlaySupportSystem.cpp.obj",
+			"InterBP_Share.cpp.obj",
+			"InterBPFunc.cpp.obj",
+			"InterBPVal.cpp.obj"
+		],
+		"Module.GamePlaySupportSystem.gen.cpp.obj": [
+			"ActivityStruct.gen.cpp.obj",
+			"ActivityStruct_HaveAndHold.gen.cpp.obj",
+			"ActivityStruct_ObjectType.gen.cpp.obj",
+			"ActivityStruct_With.gen.cpp.obj",
+			"ActorTagLibrary.gen.cpp.obj",
+			"ComponentSupportFunctionLibrary.gen.cpp.obj",
+			"DirectoryAndFile.gen.cpp.obj",
+			"GamePlaySupportSystem.init.gen.cpp.obj",
+			"InterBP_Share.gen.cpp.obj",
+			"InterBPFunc.gen.cpp.obj",
+			"InterBPVal.gen.cpp.obj",
+			"PhysicsFunctionLibrary.gen.cpp.obj"
+		]
+	}
+}

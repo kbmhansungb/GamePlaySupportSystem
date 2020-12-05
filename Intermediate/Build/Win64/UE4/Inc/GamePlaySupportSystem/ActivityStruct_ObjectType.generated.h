@@ -1,0 +1,170 @@
+// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef GAMEPLAYSUPPORTSYSTEM_ActivityStruct_ObjectType_generated_h
+#error "ActivityStruct_ObjectType.generated.h already included, missing '#pragma once' in ActivityStruct_ObjectType.h"
+#endif
+#define GAMEPLAYSUPPORTSYSTEM_ActivityStruct_ObjectType_generated_h
+
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_SPARSE_DATA
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_RPC_WRAPPERS
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUOOAC_SubObject(); \
+	friend struct Z_Construct_UClass_UOOAC_SubObject_Statics; \
+public: \
+	DECLARE_CLASS(UOOAC_SubObject, UOOAComplement, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/GamePlaySupportSystem"), NO_API) \
+	DECLARE_SERIALIZER(UOOAC_SubObject)
+
+
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_INCLASS \
+private: \
+	static void StaticRegisterNativesUOOAC_SubObject(); \
+	friend struct Z_Construct_UClass_UOOAC_SubObject_Statics; \
+public: \
+	DECLARE_CLASS(UOOAC_SubObject, UOOAComplement, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/GamePlaySupportSystem"), NO_API) \
+	DECLARE_SERIALIZER(UOOAC_SubObject)
+
+
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UOOAC_SubObject(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UOOAC_SubObject) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UOOAC_SubObject); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOOAC_SubObject); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UOOAC_SubObject(UOOAC_SubObject&&); \
+	NO_API UOOAC_SubObject(const UOOAC_SubObject&); \
+public:
+
+
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UOOAC_SubObject(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UOOAC_SubObject(UOOAC_SubObject&&); \
+	NO_API UOOAC_SubObject(const UOOAC_SubObject&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UOOAC_SubObject); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOOAC_SubObject); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UOOAC_SubObject)
+
+
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_PRIVATE_PROPERTY_OFFSET
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_10_PROLOG
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_PRIVATE_PROPERTY_OFFSET \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_SPARSE_DATA \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_RPC_WRAPPERS \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_INCLASS \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_PRIVATE_PROPERTY_OFFSET \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_SPARSE_DATA \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_INCLASS_NO_PURE_DECLS \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_13_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> GAMEPLAYSUPPORTSYSTEM_API UClass* StaticClass<class UOOAC_SubObject>();
+
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_SPARSE_DATA
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_RPC_WRAPPERS
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_RPC_WRAPPERS_NO_PURE_DECLS
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesUOOAC_MultipleObjects(); \
+	friend struct Z_Construct_UClass_UOOAC_MultipleObjects_Statics; \
+public: \
+	DECLARE_CLASS(UOOAC_MultipleObjects, UOOAComplement, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/GamePlaySupportSystem"), NO_API) \
+	DECLARE_SERIALIZER(UOOAC_MultipleObjects)
+
+
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_INCLASS \
+private: \
+	static void StaticRegisterNativesUOOAC_MultipleObjects(); \
+	friend struct Z_Construct_UClass_UOOAC_MultipleObjects_Statics; \
+public: \
+	DECLARE_CLASS(UOOAC_MultipleObjects, UOOAComplement, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/GamePlaySupportSystem"), NO_API) \
+	DECLARE_SERIALIZER(UOOAC_MultipleObjects)
+
+
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UOOAC_MultipleObjects(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UOOAC_MultipleObjects) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UOOAC_MultipleObjects); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOOAC_MultipleObjects); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UOOAC_MultipleObjects(UOOAC_MultipleObjects&&); \
+	NO_API UOOAC_MultipleObjects(const UOOAC_MultipleObjects&); \
+public:
+
+
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_ENHANCED_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API UOOAC_MultipleObjects(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API UOOAC_MultipleObjects(UOOAC_MultipleObjects&&); \
+	NO_API UOOAC_MultipleObjects(const UOOAC_MultipleObjects&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, UOOAC_MultipleObjects); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UOOAC_MultipleObjects); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UOOAC_MultipleObjects)
+
+
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_PRIVATE_PROPERTY_OFFSET
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_19_PROLOG
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_PRIVATE_PROPERTY_OFFSET \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_SPARSE_DATA \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_RPC_WRAPPERS \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_INCLASS \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_PRIVATE_PROPERTY_OFFSET \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_SPARSE_DATA \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_RPC_WRAPPERS_NO_PURE_DECLS \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_INCLASS_NO_PURE_DECLS \
+	EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h_22_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> GAMEPLAYSUPPORTSYSTEM_API UClass* StaticClass<class UOOAC_MultipleObjects>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID EscapeRoomSimulator_Plugins_GamePlaySupportSystem_Source_GamePlaySupportSystem_ActivityStruct_Complement_ActivityStruct_ObjectType_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
